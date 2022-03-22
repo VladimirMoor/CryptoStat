@@ -44,6 +44,7 @@
 		31FC487527E76E0C004F5A51 /* DetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FC487427E76E0C004F5A51 /* DetailViewModel.swift */; };
 		31FC487727E76EA8004F5A51 /* CoinDetailDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FC487627E76EA8004F5A51 /* CoinDetailDataService.swift */; };
 		31FC487927E9F995004F5A51 /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FC487827E9F995004F5A51 /* ChartView.swift */; };
+		31FC487B27EA064E004F5A51 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FC487A27EA064E004F5A51 /* Date.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -85,6 +86,7 @@
 		31FC487427E76E0C004F5A51 /* DetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewModel.swift; sourceTree = "<group>"; };
 		31FC487627E76EA8004F5A51 /* CoinDetailDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinDetailDataService.swift; sourceTree = "<group>"; };
 		31FC487827E9F995004F5A51 /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
+		31FC487A27EA064E004F5A51 /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -236,6 +238,7 @@
 				316EF07A27DC9EA500B26610 /* Double.swift */,
 				316EF07827DC983300B26610 /* PreviewProvider.swift */,
 				316EF09027E1CBE700B26610 /* UIApplication.swift */,
+				31FC487A27EA064E004F5A51 /* Date.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -355,6 +358,7 @@
 				316EF07D27DE2BB300B26610 /* HomeViewModel.swift in Sources */,
 				316EF09F27E474A600B26610 /* XMarkButton.swift in Sources */,
 				31EDB2FF27DB221300BA557E /* ContentView.swift in Sources */,
+				31FC487B27EA064E004F5A51 /* Date.swift in Sources */,
 				316EF08D27E0B25600B26610 /* LocalFileManager.swift in Sources */,
 				31EDB31427DB2B2E00BA557E /* HomeView.swift in Sources */,
 				316EF09927E35B2D00B26610 /* MarketDataModel.swift in Sources */,
