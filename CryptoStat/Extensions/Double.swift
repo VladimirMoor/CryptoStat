@@ -19,9 +19,9 @@ extension Double {
         let formatter = NumberFormatter()
         formatter.usesGroupingSeparator = true
         formatter.numberStyle = .currency
-     //   formatter.locale = .current
-      //  formatter.currencyCode = "usd"
-      //  formatter.currencySymbol = "$"
+        formatter.locale = .current
+        formatter.currencyCode = "usd"
+        formatter.currencySymbol = "$"
         formatter.minimumFractionDigits = 2
         formatter.maximumFractionDigits = 2
         return formatter

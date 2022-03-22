@@ -43,6 +43,7 @@
 		31EDB31427DB2B2E00BA557E /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31EDB31327DB2B2E00BA557E /* HomeView.swift */; };
 		31FC487527E76E0C004F5A51 /* DetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FC487427E76E0C004F5A51 /* DetailViewModel.swift */; };
 		31FC487727E76EA8004F5A51 /* CoinDetailDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FC487627E76EA8004F5A51 /* CoinDetailDataService.swift */; };
+		31FC487927E9F995004F5A51 /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31FC487827E9F995004F5A51 /* ChartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -83,6 +84,7 @@
 		31EDB31327DB2B2E00BA557E /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		31FC487427E76E0C004F5A51 /* DetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewModel.swift; sourceTree = "<group>"; };
 		31FC487627E76EA8004F5A51 /* CoinDetailDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinDetailDataService.swift; sourceTree = "<group>"; };
+		31FC487827E9F995004F5A51 /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 			isa = PBXGroup;
 			children = (
 				3160ECEA27E71B930094FB65 /* DetailView.swift */,
+				31FC487827E9F995004F5A51 /* ChartView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -348,6 +351,7 @@
 				3160ECE227E5A96A0094FB65 /* PortfolioContainer.xcdatamodeld in Sources */,
 				316EF08127DF220800B26610 /* CoinDataService.swift in Sources */,
 				316EF07727DC979900B26610 /* CoinRowView.swift in Sources */,
+				31FC487927E9F995004F5A51 /* ChartView.swift in Sources */,
 				316EF07D27DE2BB300B26610 /* HomeViewModel.swift in Sources */,
 				316EF09F27E474A600B26610 /* XMarkButton.swift in Sources */,
 				31EDB2FF27DB221300BA557E /* ContentView.swift in Sources */,
