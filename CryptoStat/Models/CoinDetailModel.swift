@@ -109,9 +109,9 @@ struct CoinDetailModel: Codable {
     let description: Description?
     let links: Links?
     
-    var readableDescription: String {
+    var readableDescription: String? {
         
-        
+        return description?.en?.removingHTMLOccurances
         
     }
     
