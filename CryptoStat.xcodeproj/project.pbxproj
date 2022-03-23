@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		310807B627EB2ACF0089D56E /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 310807B527EB2ACF0089D56E /* String.swift */; };
 		3160ECE227E5A96A0094FB65 /* PortfolioContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3160ECE027E5A96A0094FB65 /* PortfolioContainer.xcdatamodeld */; };
 		3160ECE427E5AA540094FB65 /* PortfolioDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3160ECE327E5AA540094FB65 /* PortfolioDataService.swift */; };
 		3160ECE627E60BBE0094FB65 /* HapticManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3160ECE527E60BBE0094FB65 /* HapticManager.swift */; };
@@ -48,6 +49,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		310807B527EB2ACF0089D56E /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 		3160ECE127E5A96A0094FB65 /* PortfolioContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PortfolioContainer.xcdatamodel; sourceTree = "<group>"; };
 		3160ECE327E5AA540094FB65 /* PortfolioDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioDataService.swift; sourceTree = "<group>"; };
 		3160ECE527E60BBE0094FB65 /* HapticManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticManager.swift; sourceTree = "<group>"; };
@@ -239,6 +241,7 @@
 				316EF07827DC983300B26610 /* PreviewProvider.swift */,
 				316EF09027E1CBE700B26610 /* UIApplication.swift */,
 				31FC487A27EA064E004F5A51 /* Date.swift */,
+				310807B527EB2ACF0089D56E /* String.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -378,6 +381,7 @@
 				316EF09B27E3608300B26610 /* MarketDataService.swift in Sources */,
 				316EF07227DB32F300B26610 /* CircleButtonAnimationView.swift in Sources */,
 				316EF08B27DF57C200B26610 /* CoinImageViewModel.swift in Sources */,
+				310807B627EB2ACF0089D56E /* String.swift in Sources */,
 				316EF07927DC983300B26610 /* PreviewProvider.swift in Sources */,
 				316EF09D27E46C9700B26610 /* PortfolioView.swift in Sources */,
 				316EF07B27DC9EA500B26610 /* Double.swift in Sources */,
