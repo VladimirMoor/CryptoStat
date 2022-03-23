@@ -32,7 +32,7 @@ struct DetailView: View {
         GridItem(.flexible())
     ]
     private let spacing: CGFloat = 20
-    
+
     init(coin: CoinModel) {
         _vm = StateObject(wrappedValue: DetailViewModel(coin: coin))
     }
