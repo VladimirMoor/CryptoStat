@@ -8,6 +8,7 @@ Used stack:
 - Swift
 - SwiftUI
 - CoreData
+- Combine
 - CoinGecko API
 
 Features:
