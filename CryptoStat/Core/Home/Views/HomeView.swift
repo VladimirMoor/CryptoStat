@@ -70,6 +70,7 @@ struct HomeView_Previews: PreviewProvider {
         NavigationView {
             HomeView()
                 .navigationBarHidden(true)
+                .preferredColorScheme(.dark)
         }
         .environmentObject(dev.homeVM)
     }
@@ -120,6 +121,8 @@ extension HomeView {
                     .onTapGesture {
                         segue(coin: coin)
                     }
+                    .listRowBackground(Color.theme.background)
+
             }
         }
         .listStyle(PlainListStyle())
@@ -135,7 +138,7 @@ extension HomeView {
                     .onTapGesture {
                         segue(coin: coin)
                     }
-                    
+                    .listRowBackground(Color.theme.background)
             }
         }
         .listStyle(PlainListStyle())
