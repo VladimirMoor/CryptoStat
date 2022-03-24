@@ -1,6 +1,6 @@
 # CryptoStat
 
-iPhone and iPad apps for cryptocurrency enthusiasts.
+iPhone and iPad application for cryptocurrency enthusiasts.
 You can see current statistics and details about all cryptocurrency and add your favourite into your portfolio.
 All portfolio data is saved locally on the device.
 
