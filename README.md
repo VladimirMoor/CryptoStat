@@ -18,6 +18,7 @@ Features:
 - Sorting data in list
 - 7 days price chart
 
+Support iOS 14.5+ 
 
 ![HomeMock](https://user-images.githubusercontent.com/81152453/159929005-1869e05f-5a0c-4cc0-9d41-9df88539ff85.png)
 ![DetailMock](https://user-images.githubusercontent.com/81152453/159929045-2601c441-a2a3-4814-822a-dad34e2b31e2.png)
